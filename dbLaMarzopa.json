@@ -1,0 +1,129 @@
+{
+    "libros": [
+        {
+            "id": 21,
+	    "idBiblio": 3,
+            "titulo": "El Hobbit",
+            "autor": "J.R.R. Tolkien",
+            "genero": "Fantasía",
+            "año_publicacion": 1937,
+            "isbn": "978-8445071409",
+            "disponibilidad": true,
+            "cantidad": 4,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838570/Open-Day/PruebaTexto/download_jkjwqa.jpg",
+            "sinopsis": "El Hobbit narra las aventuras de Bilbo Bolsón, un hobbit pacífico que se embarca en una inesperada aventura para recuperar el tesoro de un dragón, acompañado por un grupo de enanos y el mago Gandalf."
+        },
+        {
+            "id": 22,
+	    "idBiblio": 3,
+            "titulo": "Los juegos del hambre",
+            "autor": "Suzanne Collins",
+            "genero": "Ciencia ficción",
+            "año_publicacion": 2008,
+            "isbn": "978-8498381537",
+            "disponibilidad": true,
+            "cantidad": 6,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838634/Open-Day/PruebaTexto/9788427202122_xt6ecp.jpg",
+            "sinopsis": "Los juegos del hambre es una trilogía que se desarrolla en un mundo post-apocalíptico donde el Capitolio organiza unos juegos mortales anuales donde jóvenes de diferentes distritos luchan por sobrevivir. Katniss Everdeen se ofrece voluntaria para los juegos en lugar de su hermana."
+        },
+        {
+            "id": 23,
+	    "idBiblio": 3,
+            "titulo": "El alquimista",
+            "autor": "Paulo Coelho",
+            "genero": "Ficción espiritual",
+            "año_publicacion": 1988,
+            "isbn": "978-0062315007",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838665/Open-Day/PruebaTexto/f2560b3e62e4bffef91b3cb73d4a622e_dcba6w.webp",
+            "sinopsis": "El alquimista sigue la historia de Santiago, un joven pastor andaluz que sueña con encontrar un tesoro escondido en las pirámides de Egipto. En su viaje, descubre lecciones de vida sobre el amor, la realización personal y la importancia de seguir los sueños."
+        },
+        {
+            "id": 24,
+	    "idBiblio": 3,
+    	    "titulo": "Las crónicas de Narnia: El león, la bruja y el armario",
+            "autor": "C.S. Lewis",
+    	    "genero": "Fantasía",
+    	    "año_publicacion": 1950,
+    	    "isbn": "978-0064471046",
+    	    "disponibilidad": true,
+    	    "cantidad": 5,
+    	    "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838713/Open-Day/PruebaTexto/34737_gsveo6.jpg",
+    	    "sinopsis": "El león, la bruja y el armario es el primer libro de las Crónicas de Narnia, que sigue las aventuras de cuatro hermanos, Peter, Susan, Edmund y Lucy Pevensie, mientras descubren el mágico mundo de Narnia y luchan contra la malvada Bruja Blanca."
+        },
+        {
+            "id": 25,
+	    "idBiblio": 3,
+            "titulo": "El nombre del viento",
+            "autor": "Patrick Rothfuss",
+            "genero": "Fantasía",
+            "año_publicacion": 2007,
+            "isbn": "978-8466342986",
+            "disponibilidad": true,
+            "cantidad": 2,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838783/Open-Day/PruebaTexto/a790dff70defe5c61b66fd73716b6e30_rtuucw.webp",
+            "sinopsis": "El nombre del viento es la primera novela de la trilogía Crónica del asesino de reyes, que narra la vida de Kvothe, un famoso arcanista y músico, mientras relata sus aventuras desde su infancia en una troupe de artistas hasta convertirse en una leyenda viva."
+        },
+	{
+            "id": 26,
+            "titulo": "Los pilares de la Tierra",
+            "autor": "Ken Follett",
+            "genero": "Histórica",
+            "año_publicacion": 1989,
+            "isbn": "978-0451464439",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838821/Open-Day/PruebaTexto/61328f4133cbc217435c385c1eaefd74_ouiqwj.webp",
+            "sinopsis": "Los pilares de la Tierra es una novela histórica que sigue la construcción de una catedral gótica en el ficticio pueblo de Kingsbridge, Inglaterra, durante el siglo XII, mientras narra las vidas de los personajes involucrados en su edificación."
+        },
+        {
+            "id": 27,
+            "titulo": "Crimen y castigo",
+            "autor": "Fiódor Dostoyevski",
+            "genero": "Ficción psicológica",
+            "año_publicacion": 1866,
+            "isbn": "978-8499890944",
+            "disponibilidad": true,
+            "cantidad": 2,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838853/Open-Day/PruebaTexto/6254541d8ae4df16d4e69bc8_6034d7d1f3e0f54529b2b1a1_Crimen-y-castigo-fiodor-dostoyevski-editorial-alma_c4lhac.jpg",
+            "sinopsis": "Crimen y castigo sigue la historia de Rodion Raskólnikov, un estudiante pobre que comete un asesinato por razones ideológicas y luego enfrenta las consecuencias psicológicas y morales de su acción."
+        },
+        {
+            "id": 28,
+            "titulo": "Matar un ruiseñor",
+            "autor": "Harper Lee",
+            "genero": "Ficción clásica",
+            "año_publicacion": 1960,
+            "isbn": "978-0061120084",
+            "disponibilidad": true,
+            "cantidad": 4,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838909/Open-Day/PruebaTexto/1bd7b432c94ccdcf816c917d8abe8e83_bthiv8.webp",
+            "sinopsis": "Matar un ruiseñor es una novela que aborda temas de injusticia racial y moralidad en la América profunda durante la década de 1930, contada desde la perspectiva de una niña llamada Scout Finch."
+        },
+        {
+            "id": 29,
+            "titulo": "El club de la lucha",
+            "autor": "Chuck Palahniuk",
+            "genero": "Ficción transgresiva",
+            "año_publicacion": 1996,
+            "isbn": "978-8433902218",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709838966/Open-Day/PruebaTexto/9788439721918_xqxakh.jpg",
+            "sinopsis": "El club de la lucha es una novela que sigue la vida de un protagonista anónimo que lucha contra el aburrimiento y la alienación a través de la creación de un club clandestino de pelea, mientras se sumerge en un mundo de desesperación y nihilismo."
+        },
+        {
+            "id": 30,
+            "titulo": "La ladrona de libros",
+            "autor": "Markus Zusak",
+            "genero": "Ficción histórica",
+            "año_publicacion": 2005,
+            "isbn": "978-8498382541",
+            "disponibilidad": true,
+            "cantidad": 5,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709839037/Open-Day/PruebaTexto/download_dtppuh.jpg",
+            "sinopsis": "La ladrona de libros narra la historia de Liesel Meminger, una niña adoptada en la Alemania nazi, quien roba libros para compartirlos y aprender a leer con la ayuda de su familia adoptiva y de un joven judío que se esconde en su sótano."
+        }
+    ]
+}
